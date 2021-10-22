@@ -239,9 +239,9 @@ mark {
 .container .row {
     margin-bottom: 0;
 }
-
+/*#0f9d58*/
 .bg-color {
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background-image: linear-gradient(to right, #4cbf30 0%, #fff0f5 100%);
 }
 
 .text-color {
